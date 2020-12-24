@@ -8,3 +8,8 @@
 ## App details:
 
 * This is a very basic app, which displays details about yourself, such as name and a small bio, with scrollable function.
+
+
+## Update 24-12-2020
+
+* We used the data binding to improve app performance. Check out the data binding documentation for more details.
